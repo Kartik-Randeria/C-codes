@@ -1,0 +1,16 @@
+E:\Coding\CSharp\Inheritance\Example01\bin\Debug\net5.0\Example01.exe
+E:\Coding\CSharp\Inheritance\Example01\bin\Debug\net5.0\Example01.deps.json
+E:\Coding\CSharp\Inheritance\Example01\bin\Debug\net5.0\Example01.runtimeconfig.json
+E:\Coding\CSharp\Inheritance\Example01\bin\Debug\net5.0\Example01.runtimeconfig.dev.json
+E:\Coding\CSharp\Inheritance\Example01\bin\Debug\net5.0\Example01.dll
+E:\Coding\CSharp\Inheritance\Example01\bin\Debug\net5.0\ref\Example01.dll
+E:\Coding\CSharp\Inheritance\Example01\bin\Debug\net5.0\Example01.pdb
+E:\Coding\CSharp\Inheritance\Example01\obj\Debug\net5.0\Example01.csproj.AssemblyReference.cache
+E:\Coding\CSharp\Inheritance\Example01\obj\Debug\net5.0\Example01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\CSharp\Inheritance\Example01\obj\Debug\net5.0\Example01.AssemblyInfoInputs.cache
+E:\Coding\CSharp\Inheritance\Example01\obj\Debug\net5.0\Example01.AssemblyInfo.cs
+E:\Coding\CSharp\Inheritance\Example01\obj\Debug\net5.0\Example01.csproj.CoreCompileInputs.cache
+E:\Coding\CSharp\Inheritance\Example01\obj\Debug\net5.0\Example01.dll
+E:\Coding\CSharp\Inheritance\Example01\obj\Debug\net5.0\ref\Example01.dll
+E:\Coding\CSharp\Inheritance\Example01\obj\Debug\net5.0\Example01.pdb
+E:\Coding\CSharp\Inheritance\Example01\obj\Debug\net5.0\Example01.genruntimeconfig.cache

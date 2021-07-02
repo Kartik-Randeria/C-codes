@@ -1,0 +1,16 @@
+E:\Coding\CSharp\Inheritance\Exercise\bin\Debug\net5.0\Exercise.exe
+E:\Coding\CSharp\Inheritance\Exercise\bin\Debug\net5.0\Exercise.deps.json
+E:\Coding\CSharp\Inheritance\Exercise\bin\Debug\net5.0\Exercise.runtimeconfig.json
+E:\Coding\CSharp\Inheritance\Exercise\bin\Debug\net5.0\Exercise.runtimeconfig.dev.json
+E:\Coding\CSharp\Inheritance\Exercise\bin\Debug\net5.0\Exercise.dll
+E:\Coding\CSharp\Inheritance\Exercise\bin\Debug\net5.0\ref\Exercise.dll
+E:\Coding\CSharp\Inheritance\Exercise\bin\Debug\net5.0\Exercise.pdb
+E:\Coding\CSharp\Inheritance\Exercise\obj\Debug\net5.0\Exercise.csproj.AssemblyReference.cache
+E:\Coding\CSharp\Inheritance\Exercise\obj\Debug\net5.0\Exercise.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\CSharp\Inheritance\Exercise\obj\Debug\net5.0\Exercise.AssemblyInfoInputs.cache
+E:\Coding\CSharp\Inheritance\Exercise\obj\Debug\net5.0\Exercise.AssemblyInfo.cs
+E:\Coding\CSharp\Inheritance\Exercise\obj\Debug\net5.0\Exercise.csproj.CoreCompileInputs.cache
+E:\Coding\CSharp\Inheritance\Exercise\obj\Debug\net5.0\Exercise.dll
+E:\Coding\CSharp\Inheritance\Exercise\obj\Debug\net5.0\ref\Exercise.dll
+E:\Coding\CSharp\Inheritance\Exercise\obj\Debug\net5.0\Exercise.pdb
+E:\Coding\CSharp\Inheritance\Exercise\obj\Debug\net5.0\Exercise.genruntimeconfig.cache

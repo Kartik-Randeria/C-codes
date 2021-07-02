@@ -1,0 +1,5 @@
+E:\Coding\CSharp\Inheritance\Example04\obj\Debug\net5.0\Example04.csproj.AssemblyReference.cache
+E:\Coding\CSharp\Inheritance\Example04\obj\Debug\net5.0\Example04.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\CSharp\Inheritance\Example04\obj\Debug\net5.0\Example04.AssemblyInfoInputs.cache
+E:\Coding\CSharp\Inheritance\Example04\obj\Debug\net5.0\Example04.AssemblyInfo.cs
+E:\Coding\CSharp\Inheritance\Example04\obj\Debug\net5.0\Example04.csproj.CoreCompileInputs.cache
