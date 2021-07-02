@@ -2,15 +2,6 @@
 
 namespace PolymorphismExercise
 {
-  // Concepts:
-
-  // Method Overriding: It means redefining same method in child class. 
-
-  // Method Hiding (new keyword): C# supports method hiding. For hiding the base class method from derived class simply declare the derive class method with new keyword
-
-  //virtual and override keyword: In C# for overriding the base class method in derived class, we have to declare base class method as virtual and derived class method as override. If we use override then we don't need to use new keyword to declare method.
-
-  //Mixing Method Overriding and Method Hiding: It is done by using new and virtual keyword since the method of derived class can be virtual and new at the same time. This is required when we want to further override the derived class method into next level, here I am overriding Class B, Test3() method in Class C as shown below :
   class A
   {
     public void Test()
